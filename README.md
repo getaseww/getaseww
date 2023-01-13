@@ -11,7 +11,7 @@
 - 
 
 
-[![Getasew’s github stats](https://github-readme-stats.vercel.app/api?username=getaseww)](https://github.com/getaseww)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=getaseww)](https://github.com/getaseww)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getaseww&layout=compact)](https://github.com/getaseww)
 
