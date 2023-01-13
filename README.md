@@ -7,8 +7,7 @@
 -     React.js
 -     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=getaseww&theme=dark&background=000000)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getaseww&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getaseww"/>
 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me 
