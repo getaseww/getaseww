@@ -2,6 +2,7 @@
 - 👀 I’m interested in 
 -     Python 
 -     Javascript
+-     TypeScript
 -     Node.js
 -     Express.js
 -     React.js
