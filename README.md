@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Getasew Walelign @getaseww
 - 👀 I’m interested in 
--     Python 
 -     Javascript
 -     TypeScript
 -     Node.js
