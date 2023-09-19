@@ -7,9 +7,9 @@ I'm a passionate software developer and tech enthusiast. Welcome to my GitHub pr
 
 I'm comfortable working with a variety of technologies and tools, including:
 
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, Python, Java,PHP
 - **Frontend**: HTML, CSS, React
-- **Backend**: Node.js, Express, Django
+- **Backend**: Node.js, Express,Laravel
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **DevOps**: Docker, Kubernetes
 - **Version Control**: Git
@@ -19,9 +19,9 @@ I'm comfortable working with a variety of technologies and tools, including:
 
 Here are some of the projects I'm proud of:
 
-- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3): A brief description of Project 3.
+- [Project 1](https://github.com/getaseww/gym-management-system)
+- [Project 2](https://github.com/getaseww/tutoring-platform)
+- [Project 3](https://github.com/getaseww/car-dealership)
 
 ### 🌱 Currently Learning
 
@@ -44,5 +44,5 @@ I love coding while sipping on a cup of ☕.
 
 Thanks for visiting my profile! 😊
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/getaseww?label=Follow&style=social)](https://github.com/getaseww)
 
