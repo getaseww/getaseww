@@ -1,18 +1,49 @@
-- 👋 Hi, I’m Getasew Walelign @getaseww
-- 👀 I’m interested in 
--     Javascript
--     TypeScript
--     Node.js
--     Express.js
--     React.js
--     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=getaseww&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- Getasew -->
+## Hello, I'm [Getasew](https://www.linkedin.com/in/geta-walelign/) 👋
 
-- 💞️ I’m looking to collaborate on different projects
+I'm a passionate software developer and tech enthusiast. Welcome to my GitHub profile, where you can find some of my projects and contributions.
 
+### 🔧 Technologies & Tools
 
+I'm comfortable working with a variety of technologies and tools, including:
 
-<!---
-getaseww/getaseww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages**: JavaScript, Python, Java
+- **Frontend**: HTML, CSS, React
+- **Backend**: Node.js, Express, Django
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **DevOps**: Docker, Kubernetes
+- **Version Control**: Git
+- **IDE**: Visual Studio Code
+
+### 🌟 Featured Projects
+
+Here are some of the projects I'm proud of:
+
+- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
+- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
+- [Project 3](https://github.com/yourusername/project3): A brief description of Project 3.
+
+### 🌱 Currently Learning
+
+I'm always eager to learn new things. Currently, I'm focused on:
+
+- Exploring machine learning and AI.
+- Improving my data analysis skills.
+- Mastering DevOps practices for seamless deployment.
+
+### 📫 Let's Connect
+
+Feel free to reach out to me:
+
+- Website: [Your Website](https://your-website.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/geta-walelign/)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+### 🚀 Fun Fact
+
+I love coding while sipping on a cup of ☕.
+
+Thanks for visiting my profile! 😊
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+
