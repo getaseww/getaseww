@@ -35,8 +35,8 @@ I'm always eager to learn new things. Currently, I'm focused on:
 
 Feel free to reach out to me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/geta-walelign/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/GetasewWalelign)
+- LinkedIn: [Getasew](https://www.linkedin.com/in/geta-walelign/)
+- Twitter: [@getasewWalelign](https://twitter.com/GetasewWalelign)
 
 ### 🚀 Fun Fact
 
