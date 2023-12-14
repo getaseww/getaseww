@@ -27,7 +27,6 @@ Here are some of the projects I'm proud of:
 
 I'm always eager to learn new things. Currently, I'm focused on:
 
-- Exploring machine learning and AI.
 - Improving my data analysis skills.
 - Mastering DevOps practices for seamless deployment.
 
@@ -37,10 +36,6 @@ Feel free to reach out to me:
 
 - LinkedIn: [Getasew](https://www.linkedin.com/in/geta-walelign/)
 - Twitter: [@getasewWalelign](https://twitter.com/GetasewWalelign)
-
-### 🚀 Fun Fact
-
-I love coding while sipping on a cup of ☕.
 
 Thanks for visiting my profile! 😊
 
