@@ -15,24 +15,8 @@ I'm comfortable working with a variety of technologies and tools, including:
 - **Version Control**: Git
 - **IDE**: Visual Studio Code
 
-### 🌟 Featured Projects
-
-Here are some of the projects I'm proud of:
-
-- [Project 1](https://github.com/getaseww/gym-management-system)
-- [Project 2](https://github.com/getaseww/tutoring-platform)
-- [Project 3](https://github.com/getaseww/car-dealership)
-
-### 🌱 Currently Learning
-
-I'm always eager to learn new things. Currently, I'm focused on:
-
-- Improving my data analysis skills.
-- Mastering DevOps practices for seamless deployment.
 
 ### 📫 Let's Connect
-
-Feel free to reach out to me:
 
 - LinkedIn: [Getasew](https://www.linkedin.com/in/geta-walelign/)
 - Twitter: [@getasewWalelign](https://twitter.com/GetasewWalelign)
