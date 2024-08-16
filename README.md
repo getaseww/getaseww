@@ -7,7 +7,7 @@ I'm a passionate software developer and tech enthusiast. Welcome to my GitHub pr
 
 I'm comfortable working with a variety of technologies and tools, including:
 
-- **Languages**: JavaScript, Python, Java,PHP
+- **Languages**:  Python,PHP,JavaScript
 - **Frontend**: HTML, CSS, React
 - **Backend**: Node.js, Express,Laravel
 - **Databases**: MongoDB, MySQL, PostgreSQL
