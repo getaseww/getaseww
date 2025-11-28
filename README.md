@@ -1,27 +1,55 @@
 <!-- Getasew -->
-## Hello, I'm [Getasew](https://www.linkedin.com/in/geta-walelign/) 👋
+# 👋 Hi, I'm Getasew Walelign
 
-I'm a passionate software developer and tech enthusiast. Welcome to my GitHub profile, where you can find some of my projects and contributions.
+I'm a passionate **Full-Stack Software Engineer** and **Tech Team Lead** with over **3 years of experience** building scalable products for startups.  
+I love working on **fintech**, **SaaS platforms**, **microservices**, and **developer tooling**.
 
-### 🔧 Technologies & Tools
+Currently exploring **blockchain development**, **Solana**, and building **Go-based CLI tools**.
 
-I'm comfortable working with a variety of technologies and tools, including:
+---
 
-- **Languages**:  Python,PHP,JavaScript
-- **Frontend**: HTML, CSS, React
-- **Backend**: Node.js, Express,Laravel
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **DevOps**: Docker, Kubernetes
-- **Version Control**: Git
-- **IDE**: Visual Studio Code
+## 🚀 Tech Stack
 
+### 💻 Languages
+- **Go (Golang)** · **JavaScript / TypeScript** · **Python**
 
-### 📫 Let's Connect
+### 🖥️ Backend
+- **Node.js**, **Express.js**
+- **Golang (microservices)**  
+- REST APIs · gRPC · Event-driven systems
 
-- LinkedIn: [Getasew](https://www.linkedin.com/in/geta-walelign/)
-- Twitter: [@getasewWalelign](https://twitter.com/GetasewWalelign)
+### 🎨 Frontend
+- **React**, **Next.js**, **TailwindCSS**
 
-Thanks for visiting my profile! 😊
+### 🗄️ Databases
+- **PostgreSQL** · **MySQL** · **MongoDB**
+- Redis (caching, queueing)
 
+### 🛠️ DevOps & Tools
+- **Docker**, **Kubernetes**
+- Git & GitHub Actions CI/CD
+- Linux server administration (VPS, Nginx)
+- Cloud integrations
+
+---
+
+## 📦 What I'm Working On
+- 🚀 A **fintech SaaS** for payment collection & settlement  
+- 🔐 An **online escrow platform** in Golang (microservices)
+- 📞 IVR & Call Center system in Go
+- ⚽ A football scouting platform  
+- 🧰 A VPN CLI tool built with Go  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/geta-walelign](https://www.linkedin.com/in/geta-walelign/)  
+- **Twitter:** [@getasewWalelign](https://twitter.com/GetasewWalelign)
+
+---
+
+## ⭐ GitHub Stats & Follow
 [![GitHub followers](https://img.shields.io/github/followers/getaseww?label=Follow&style=social)](https://github.com/getaseww)
 
+Thanks for visiting my profile! 😊
