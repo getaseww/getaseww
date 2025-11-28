@@ -1,7 +1,7 @@
 <!-- Getasew -->
 # 👋 Hi, I'm Getasew Walelign
 
-I'm a passionate **Full-Stack Software Engineer** and **Tech Team Lead** with over **3 years of experience** building scalable products for startups.  
+I'm a passionate **Full-Stack Software Engineer** and **Tech Team Lead** with over **4 years of experience** building scalable products for startups.  
 I love working on **fintech**, **SaaS platforms**, **microservices**, and **developer tooling**.
 
 Currently exploring **blockchain development**, **Solana**, and building **Go-based CLI tools**.
