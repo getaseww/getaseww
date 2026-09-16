@@ -1,55 +1,23 @@
-<!-- Getasew -->
-# 👋 Hi, I'm Getasew Walelign
+# Getasew Walelign
 
-I'm a passionate **Full-Stack Software Engineer** and **Tech Team Lead** with over **4 years of experience** building scalable products for startups.  
-I love working on **fintech**, **SaaS platforms**, **microservices**, and **developer tooling**.
+**Software Engineer**
 
-Currently exploring **blockchain development**, **Solana**, and building **Go-based CLI tools**.
+I build scalable backend systems, fintech platforms, and SaaS products. My main focus is **Go, Node.js, TypeScript, PostgreSQL, APIs, microservices, and distributed systems**.
 
----
+Currently working on payment infrastructure and SaaS platforms, with experience taking products from development to production.
 
-## 🚀 Tech Stack
+### Tech
 
-### 💻 Languages
-- **Go (Golang)** · **JavaScript / TypeScript** · **Python**
+`Go` `TypeScript` `JavaScript` `Node.js` `PostgreSQL` `MongoDB` `Redis` `Docker` `AWS`
 
-### 🖥️ Backend
-- **Node.js**, **Express.js**
-- **Golang (microservices)**  
-- REST APIs · gRPC · Event-driven systems
+### Focus
 
-### 🎨 Frontend
-- **React**, **Next.js**, **TailwindCSS**
+* Backend & distributed systems
+* Payment integrations & fintech
+* SaaS platforms
+* REST APIs & microservices
+* Infrastructure & production systems
 
-### 🗄️ Databases
-- **PostgreSQL** · **MySQL** · **MongoDB**
-- Redis (caching, queueing)
+### Connect
 
-### 🛠️ DevOps & Tools
-- **Docker**, **Kubernetes**
-- Git & GitHub Actions CI/CD
-- Linux server administration (VPS, Nginx)
-- Cloud integrations
-
----
-
-## 📦 What I'm Working On
-- 🚀 A **fintech SaaS** for payment collection & settlement  
-- 🔐 An **online escrow platform** in Golang (microservices)
-- 📞 IVR & Call Center system in Go
-- ⚽ A football scouting platform  
-- 🧰 A VPN CLI tool built with Go  
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/geta-walelign](https://www.linkedin.com/in/geta-walelign/)  
-- **Twitter:** [@getasewWalelign](https://twitter.com/GetasewWalelign)
-
----
-
-## ⭐ GitHub Stats & Follow
-[![GitHub followers](https://img.shields.io/github/followers/getaseww?label=Follow&style=social)](https://github.com/getaseww)
-
-Thanks for visiting my profile! 😊
+[LinkedIn](https://www.linkedin.com/in/geta-walelign/) · [GitHub](https://github.com/getaseww)
